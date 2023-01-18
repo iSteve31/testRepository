@@ -20,7 +20,7 @@ yo soy one de alura latam  <=>  yober sobery obernenter denter ailufatrai laitai
 
 Durante el desarrollo de esta aplicación web se trabajó bajo una **Metodología Ágil de Desarrollo** utilizando la herramienta **"Trello"**, para organizar y controlar el progreso de mis actividades.
 
-En el siguiente enlace puede navegar por el tablero del proyecto:
+En el siguiente enlace puede navegar por el tablero del proyecto:  
 https://trello.com/b/fxWC8aMf/challenge-one-encriptador-de-texto
 
 ## :bulb: ESTRATEGIA DE DESARROLLO
