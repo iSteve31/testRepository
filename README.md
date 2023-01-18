@@ -9,7 +9,7 @@ Test repository for connection and communication with local repository
 
 AGREGAR BANNER "IMG"
 
-## DESCRIPCION
+## :pencil: DESCRIPCION
 
 **Barbería Alura** es una página web que describe la historia y la trayectoria de este emprendimiento, una barbería única, formado por los *mejores barberos y estilistas profesionales de la ciudad*.
     
@@ -17,18 +17,18 @@ AGREGAR BANNER "IMG"
     
 Asi mismo, el cliente tiene la posiblidad de poder contactarse con nosotros mediante un *formulario* dejando sus datos generales, un mensaje y eligiendo el medio y horario de preferencia por el cual desea que lo contactemos.
 
-## ESTRATEGIA DE DESARROLLO
+## :pushpin: ESTRATEGIA DE DESARROLLO
 
 **Barbería Alura** fue creada desde una visión de emprendimiento, se analizó y se construyó la presentanción de la barbería *(HOME)*, se agregaron productos
 de negocio a elección del cliente *(PRODUCTOS)* y un formulario de contacto para interactuar con el cliente de acuerdo al medio que éste eliga *(CONTACTO)*.
 
 Todo ello fue realizado poniendo en práctica los conocimientos adquiridos durante el proceso de aprendisaje del lenguaje **HTML** y **CSS**, haciendo uso
-de un **diseño adaptativo**, o **responsive**, para diferentes tamaños de pantalla, ya sean para despositivos de escritorio o móviles.
+de un **diseño adaptativo**, o **responsive**, para diferentes tamaños de pantalla, ya sea para despositivos de escritorio o móviles.
 
 Por ejemplo, dentro del proyecto, se importaron *Fuentes de Google* y videos de *Youtube*, se insertaron mapas de *Google Maps*, se usaron caracteres *Unicode*, asi como también del uso de *pseudo-clases* y *pseudo-elementos*, y se reforzó la utilidad de las *Media Queries*.
 Cabe mencionar, que este proyecto no está vinculado aún a una base de datos, por lo que el formulario no enviará datos a ningún servidor por el momento.
 
-## CARACTERISTICAS DE LA PÁGINA WEB
+## :globe_with_meridians: CARACTERISTICAS DE LA PÁGINA WEB
 
 - Logo y panel de navegación rápido.
 - Ubicación rápida mediante mapa insertado de Google Maps.
@@ -37,7 +37,7 @@ Cabe mencionar, que este proyecto no está vinculado aún a una base de datos, p
 - Formulario de contacto en línea fácil y seguro.
 - Compatibilidad con diferentes dispositivos y navegadores.
 
-## DISEÑO
+## :art: DISEÑO
 
 El desarrollo de la interfáz de esta página web fue realizado en colaboración con el instructor del programa **ONE de Oracle y Alura Latam**, del curso "HTML Y CSS" llevado con
 el instructor *Ing. Christian Velasco Algarañaz*.
@@ -49,7 +49,7 @@ Las tecnologías utilizadas en el desarrollo de esta página web son las siguien
 - HTML
 - CSS
 
-## ¿COMO USAR?
+## :dart: ¿COMO USAR?
 
 - Visita nuestra página web [Barbería Alura]()
 - Revisa la presentación de nuestro emprendimiento en "HOME".
