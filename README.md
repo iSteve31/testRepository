@@ -17,7 +17,7 @@ AGREGAR BANNER "IMG"
     
 Asi mismo, el cliente tiene la posiblidad de poder contactarse con nosotros mediante un *formulario* dejando sus datos generales, un mensaje y eligiendo el medio y horario de preferencia por el cual desea que lo contactemos.
 
-## :pushpin: ESTRATEGIA DE DESARROLLO
+## :bulb: ESTRATEGIA DE DESARROLLO
 
 **Barbería Alura** fue creada desde una visión de emprendimiento, se analizó y se construyó la presentanción de la barbería *(HOME)*, se agregaron productos
 de negocio a elección del cliente *(PRODUCTOS)* y un formulario de contacto para interactuar con el cliente de acuerdo al medio que éste eliga *(CONTACTO)*.
