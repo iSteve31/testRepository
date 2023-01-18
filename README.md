@@ -5,9 +5,9 @@ Test repository for connection and communication with local repository
 [Visualiza mi repositorio](https://isteve31.github.io/testRepository/)
 
 ---
-# TASK #A01 - BARBERIA ALURA
+<h1 align="center">:barber: BARBERIA ALURA :barber:</h1>
 
-AGREGAR BANNER "IMG"
+<a href="https://barberia-alura-bysteverocha.netlify.app/"><img src="assets/website.png" alt="Website Barbería Alura"></a>
 
 ## :pencil: DESCRIPCION
 
@@ -57,7 +57,7 @@ Las tecnologías utilizadas en el desarrollo de esta página web son las siguien
 
 ## :dart: ¿COMO USAR?
 
-- Visita nuestra página web [Barbería Alura]()
+- Visita nuestra página web [Barbería Alura](https://barberia-alura-bysteverocha.netlify.app/).
 - Revisa la presentación de nuestro emprendimiento en "HOME".
 - Revisa los servicios que ofrecemos en "PRODUCTOS".
 - Haz clic en "CONTACTO" para llenar el formulario y podamos comunicarnos contigo.
