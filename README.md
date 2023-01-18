@@ -15,13 +15,12 @@ El presente proyecto es una **aplicación web que encripta y desencripta texto**
 
 Por ejemplo:
 ~~~
-yo soy one de alura latam <=> yober sobery obernenter denter ailufatrai laitaim
+yo soy one de alura latam  <=>  yober sobery obernenter denter ailufatrai laitaim
 ~~~
 
 Durante el desarrollo de esta aplicación web se trabajó bajo una **Metodología Ágil de Desarrollo** utilizando la herramienta **"Trello"**, para organizar y controlar el progreso de mis actividades.
 
 En el siguiente enlace puede navegar por el tablero del proyecto:
-
 https://trello.com/b/fxWC8aMf/challenge-one-encriptador-de-texto
 
 ## :bulb: ESTRATEGIA DE DESARROLLO
@@ -35,11 +34,6 @@ Dentro de cada función construída se utilizaron:
 - Expresiones regulares.
 - Manipulación de eventos.
 
-### CONDICIONES
-
-- Se debe ingresar solo texto con letras minúsculas.
-- No deben ser utilizadas letras con acentos ni caracteres especiales.
-
 ## :globe_with_meridians: CARACTERISTICAS DE LA APLICACIÓN WEB
 
 - Interfaz sencilla y fácil de usar.
@@ -49,6 +43,11 @@ Dentro de cada función construída se utilizaron:
 - Opción adicional para "copiar" el texto encriptado/desencriptado directamente desde un botón.
 - Compatibilidad con diferentes dispositivos y navegadores, diseño web responsivo.
 - Algoritmo de encriptación confiable y seguro.
+
+### CONDICIONES
+
+- Se debe ingresar solo texto con letras minúsculas.
+- No deben ser utilizadas letras con acentos ni caracteres especiales.
 
 ## :art: DISEÑO
 
