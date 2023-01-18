@@ -12,7 +12,7 @@ AGREGAR BANNER "IMG"
 ## :pencil: DESCRIPCION
 
 **Barbería Alura** es una página web que describe la historia y la trayectoria de este emprendimiento, una barbería única, formado por los *mejores barberos y estilistas profesionales de la ciudad*.
-    
+
 **Barbería Alura** presenta al público *el diferencial, la calidad y experiencia del trabajo* de nuestros barberos y estilistas, ofreciendo además una variedad de servicios de corte de cabello para hombres, incluyendo cortes clásicos, modernos, peinados personalizados y mucho más.
     
 Asi mismo, el cliente tiene la posiblidad de poder contactarse con nosotros mediante un *formulario* dejando sus datos generales, un mensaje y eligiendo el medio y horario de preferencia por el cual desea que lo contactemos.
