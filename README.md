@@ -25,7 +25,14 @@ de negocio a elección del cliente *(PRODUCTOS)* y un formulario de contacto par
 Todo ello fue realizado poniendo en práctica los conocimientos adquiridos durante el proceso de aprendisaje del lenguaje **HTML** y **CSS**, haciendo uso
 de un **diseño adaptativo**, o **responsive**, para diferentes tamaños de pantalla, ya sea para despositivos de escritorio o móviles.
 
-Por ejemplo, dentro del proyecto, se importaron *Fuentes de Google* y videos de *Youtube*, se insertaron mapas de *Google Maps*, se usaron caracteres *Unicode*, asi como también del uso de *pseudo-clases* y *pseudo-elementos*, y se reforzó la utilidad de las *Media Queries*.
+Dentro del proyecto:
+- Se importaron fuentes de ***Google Fonts**.
+- Se importaron videos de ***Youtube***.
+- Se insertaron mapas de ***Google Maps***.
+- Se usaron caracteres ***Unicode***.
+- Se usaron ***pseudo-clases*** y ***pseudo-elementos***.
+- Se reforzó la utilidad de las ***Media Queries***.
+
 Cabe mencionar, que este proyecto no está vinculado aún a una base de datos, por lo que el formulario no enviará datos a ningún servidor por el momento.
 
 ## :globe_with_meridians: CARACTERISTICAS DE LA PÁGINA WEB
