@@ -46,8 +46,7 @@ Cabe mencionar, que este proyecto no está vinculado aún a una base de datos, p
 
 ## :art: DISEÑO
 
-El desarrollo de la interfáz de esta página web fue realizado en colaboración con el instructor del programa **ONE de Oracle y Alura Latam**, del curso "HTML Y CSS" llevado con
-el instructor *Ing. Christian Velasco Algarañaz*.
+El desarrollo de la interfáz de esta página web fue realizado en colaboración con el instructor del programa **ONE de Oracle y Alura Latam**, del curso "HTML Y CSS" impartido por el instructor *Ing. Christian Velasco Algarañaz*.
 
 ## :computer: TECNOLOGIAS
 
