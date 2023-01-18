@@ -14,14 +14,14 @@ Test repository for connection and communication with local repository
 El presente proyecto es una **aplicación web que encripta y desencripta texto** de manera fácil y segura para intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada. La aplicación web puede convertir una palabra para la versión encriptada y también devolver la misma palabra encriptada para su versión original.
 
 Por ejemplo:
-<!-- ~~~ -->
-hola | euu
-yo soy one de alura latam | <=> | yober sobery obernenter denter ailufatrai laitaim
-<!-- ~~~ -->
+~~~
+yo soy one de alura latam <=> yober sobery obernenter denter ailufatrai laitaim
+~~~
 
 Durante el desarrollo de esta aplicación web se trabajó bajo una **Metodología Ágil de Desarrollo** utilizando la herramienta **"Trello"**, para organizar y controlar el progreso de mis actividades.
 
 En el siguiente enlace puede navegar por el tablero del proyecto:
+
 https://trello.com/b/fxWC8aMf/challenge-one-encriptador-de-texto
 
 ## :bulb: ESTRATEGIA DE DESARROLLO
@@ -31,8 +31,8 @@ Para realizar la funcionalidad de encriptación y desencriptación se utilizaron
 Dentro de cada función construída se utilizaron:
 - Variables que accesan a nuestros elementos HTML.
 - Funciones propias del lenguaje JavaScript, como replace(), test(), split(), etc.
-- Uso de condicionales.
-- Uso de expresiones regulares.
+- Condicionales.
+- Expresiones regulares.
 - Manipulación de eventos.
 
 ### CONDICIONES
@@ -59,7 +59,7 @@ La aplicación web se ha creado teniendo en cuenta un **diseño adaptativo**, o 
 En el siguiente enlace puede visualizar la plantilla en Figma:
 https://www.figma.com/file/C18uAQfrOq4Tk0ZWlVTU0t/Alura-Latam-Challenge---Sprint-%2301?node-id=0%3A1&t=FQGIWtKaCClnO6fL-0
 
-## :copunter: TECNOLOGIAS
+## :computer: TECNOLOGIAS
 
 Las tecnologías utilizadas para hacer posible el desarrollo de esta aplicación web son las siguientes:
 
@@ -73,7 +73,7 @@ Las tecnologías utilizadas para hacer posible el desarrollo de esta aplicación
 - Haz clic en el botón "Encriptar" para obtener el texto encriptado.
 - Para desencriptar, copia el texto encriptado con el botón "Copiar" y pégalo en el campo de texto proporcionado.
 - Haz clic en el botón "Desencriptar" para obtener el texto original.
-
+---
 # :mag_right: MENSAJE SECRETO
 
 Visita nuestra [aplicación web](https://barberia-alura-bysteverocha.netlify.app/) en línea y desencripta el mensaje secreto!  
