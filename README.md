@@ -7,7 +7,7 @@ Test repository for connection and communication with local repository
 ---
 <h1 align="center">:barber: BARBERIA ALURA :barber:</h1>
 
-<a href="https://barberia-alura-bysteverocha.netlify.app/"><img src="assets/website.png" alt="Website Barbería Alura"></a>
+<a href="https://barberia-alura-bysteverocha.netlify.app/" target="_blank"><img src="assets/website.png" alt="Website Barbería Alura"></a>
 
 ## :pencil: DESCRIPCION
 
@@ -26,7 +26,7 @@ Todo ello fue realizado poniendo en práctica los conocimientos adquiridos duran
 de un **diseño adaptativo**, o **responsive**, para diferentes tamaños de pantalla, ya sea para despositivos de escritorio o móviles.
 
 Dentro del proyecto:
-- Se importaron fuentes de ***Google Fonts**.
+- Se importaron fuentes de ***Google Fonts***.
 - Se importaron videos de ***Youtube***.
 - Se insertaron mapas de ***Google Maps***.
 - Se usaron caracteres ***Unicode***.
