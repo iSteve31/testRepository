@@ -5,60 +5,81 @@ Test repository for connection and communication with local repository
 [Visualiza mi repositorio](https://isteve31.github.io/testRepository/)
 
 ---
-<h1 align="center">:barber: BARBERIA ALURA :barber:</h1>
+<h1 align="center">:closed_lock_with_key: ENCRIPTADOR DE TEXTOS :closed_lock_with_key:</h1>
 
-<a href="https://barberia-alura-bysteverocha.netlify.app/" target="_blank"><img src="assets/website.png" alt="Website Barbería Alura"></a>
+<a href="https://barberia-alura-bysteverocha.netlify.app/"><img src="assets/websiteEncrypt.png" alt="Website Encriptador de Textos"></a>
 
 ## :pencil: DESCRIPCION
 
-**Barbería Alura** es una página web que describe la historia y la trayectoria de este emprendimiento, una barbería única, formado por los *mejores barberos y estilistas profesionales de la ciudad*.
+El presente proyecto es una **aplicación web que encripta y desencripta texto** de manera fácil y segura para intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada. La aplicación web puede convertir una palabra para la versión encriptada y también devolver la misma palabra encriptada para su versión original.
 
-**Barbería Alura** presenta al público *el diferencial, la calidad y experiencia del trabajo* de nuestros barberos y estilistas, ofreciendo además una variedad de servicios de corte de cabello para hombres, incluyendo cortes clásicos, modernos, peinados personalizados y mucho más.
-    
-Asi mismo, el cliente tiene la posiblidad de poder contactarse con nosotros mediante un *formulario* dejando sus datos generales, un mensaje y eligiendo el medio y horario de preferencia por el cual desea que lo contactemos.
+Por ejemplo:
+<!-- ~~~ -->
+hola | euu
+yo soy one de alura latam | <=> | yober sobery obernenter denter ailufatrai laitaim
+<!-- ~~~ -->
+
+Durante el desarrollo de esta aplicación web se trabajó bajo una **Metodología Ágil de Desarrollo** utilizando la herramienta **"Trello"**, para organizar y controlar el progreso de mis actividades.
+
+En el siguiente enlace puede navegar por el tablero del proyecto:
+https://trello.com/b/fxWC8aMf/challenge-one-encriptador-de-texto
 
 ## :bulb: ESTRATEGIA DE DESARROLLO
 
-**Barbería Alura** fue creada desde una visión de emprendimiento, se analizó y se construyó la presentanción de la barbería *(HOME)*, se agregaron productos
-de negocio a elección del cliente *(PRODUCTOS)* y un formulario de contacto para interactuar con el cliente de acuerdo al medio que éste eliga *(CONTACTO)*.
+Para realizar la funcionalidad de encriptación y desencriptación se utilizaron *"llaves de encriptación"*, valga la redundancia, junto a ello se *construyeron funciones adicionales* para desarrollar todo el mecanismo y proceso de encriptación, desencriptación, visualización, restricciones y/o condiciones.
 
-Todo ello fue realizado poniendo en práctica los conocimientos adquiridos durante el proceso de aprendisaje del lenguaje **HTML** y **CSS**, haciendo uso
-de un **diseño adaptativo**, o **responsive**, para diferentes tamaños de pantalla, ya sea para despositivos de escritorio o móviles.
+Dentro de cada función construída se utilizaron:
+- Variables que accesan a nuestros elementos HTML.
+- Funciones propias del lenguaje JavaScript, como replace(), test(), split(), etc.
+- Uso de condicionales.
+- Uso de expresiones regulares.
+- Manipulación de eventos.
 
-Dentro del proyecto:
-- Se importaron fuentes de ***Google Fonts***.
-- Se importaron videos de ***Youtube***.
-- Se insertaron mapas de ***Google Maps***.
-- Se usaron caracteres ***Unicode***.
-- Se usaron ***pseudo-clases*** y ***pseudo-elementos***.
-- Se reforzó la utilidad de las ***Media Queries***.
+### CONDICIONES
 
-Cabe mencionar, que este proyecto no está vinculado aún a una base de datos, por lo que el formulario no enviará datos a ningún servidor por el momento.
+- Se debe ingresar solo texto con letras minúsculas.
+- No deben ser utilizadas letras con acentos ni caracteres especiales.
 
-## :globe_with_meridians: CARACTERISTICAS DE LA PÁGINA WEB
+## :globe_with_meridians: CARACTERISTICAS DE LA APLICACIÓN WEB
 
-- Logo y panel de navegación rápido.
-- Ubicación rápida mediante mapa insertado de Google Maps.
-- Video insertado de Youtube de la calidad de trabajo de nuestros barberos y estilistas.
-- Opción para elegir un producto a gusto del cliente.
-- Formulario de contacto en línea fácil y seguro.
-- Compatibilidad con diferentes dispositivos y navegadores.
+- Interfaz sencilla y fácil de usar.
+- La página contiene campos para la inserción de texto a encriptar/desencriptar y para la visualización de texto encriptado/desencriptado.
+- Ambas funciones de encriptación y desencriptación pueden ser realizadas desde la misma aplicación web en línea.
+- Encriptación y desencriptación de texto en tiempo real.
+- Opción adicional para "copiar" el texto encriptado/desencriptado directamente desde un botón.
+- Compatibilidad con diferentes dispositivos y navegadores, diseño web responsivo.
+- Algoritmo de encriptación confiable y seguro.
 
 ## :art: DISEÑO
 
-El desarrollo de la interfáz de esta página web fue realizado en colaboración con el instructor del programa **ONE de Oracle y Alura Latam**, del curso "HTML Y CSS" impartido por el instructor *Ing. Christian Velasco Algarañaz*.
+Para el desarrollo de la interfaz de esta aplicación web, se tuvo a disposición una **plantilla en FIGMA** como referencia propuesta por el equipo de diseñadores de **Alura Latam - Programa ONE**, que prepararon para el desarrollo de esta aplicación web.
 
-## :computer: TECNOLOGIAS
+La aplicación web se ha creado teniendo en cuenta un **diseño adaptativo**, o **responsive**, para diferentes tamaños de pantalla, ya sea para despositivos de escritorio o móviles.
 
-Las tecnologías utilizadas en el desarrollo de esta página web son las siguientes:
+En el siguiente enlace puede visualizar la plantilla en Figma:
+https://www.figma.com/file/C18uAQfrOq4Tk0ZWlVTU0t/Alura-Latam-Challenge---Sprint-%2301?node-id=0%3A1&t=FQGIWtKaCClnO6fL-0
+
+## :copunter: TECNOLOGIAS
+
+Las tecnologías utilizadas para hacer posible el desarrollo de esta aplicación web son las siguientes:
 
 - HTML
 - CSS
+- JavaScript
 
 ## :dart: ¿COMO USAR?
 
-- Visita nuestra página web [Barbería Alura](https://barberia-alura-bysteverocha.netlify.app/).
-- Revisa la presentación de nuestro emprendimiento en "HOME".
-- Revisa los servicios que ofrecemos en "PRODUCTOS".
-- Haz clic en "CONTACTO" para llenar el formulario y podamos comunicarnos contigo.
-- Ingresa tus detalles personales, tu mensaje y haz clic en "Enviar" para completar el formulario.
+- Ingresa el texto que deseas encriptar en el campo de texto proporcionado.
+- Haz clic en el botón "Encriptar" para obtener el texto encriptado.
+- Para desencriptar, copia el texto encriptado con el botón "Copiar" y pégalo en el campo de texto proporcionado.
+- Haz clic en el botón "Desencriptar" para obtener el texto original.
+
+# :mag_right: MENSAJE SECRETO
+
+Visita nuestra [aplicación web](https://barberia-alura-bysteverocha.netlify.app/) en línea y desencripta el mensaje secreto!  
+**SUERTE! :four_leaf_clover:**
+~~~
+lai vimesdai timesenternenter enterl coberloberr cobern enterl qufatenter tufat lai qufatimesenterrais pimesntair
+
+fenterlimescimestaicimesobernenters y mufatchais graicimesais
+~~~
